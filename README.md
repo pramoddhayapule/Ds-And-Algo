@@ -1,2 +1,2 @@
 # Ds-And-Algo
-This repository is dedicated to tracking my data structures and algorithms practice
+This repository is dedicated to practice data structures and algorithms 
